@@ -21,6 +21,11 @@ Lets get started.
 
 Student ID | Movie | Year of Release
 --- | --- | ---
+1905893 | Logan | 2017
+1905893 | Black Mass | 2015
+1905893 | Brokeback Mountain | 2005
+1905893 | Dead Poets Society | 1989
+1905893 | Never Let Me Go | 2010
 1906217|good movie|2001
 1906217|hardmoview|2002
 1906217|mediummovie|2003
